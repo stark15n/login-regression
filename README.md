@@ -98,7 +98,7 @@ Se automatizaron los siguientes escenarios para el módulo Login:
 | Caso de prueba                                    | Estado |
 |---------------------------------------------------|--------|
 | Login exitoso                                     | ✅ |
-| Login con usuario y contraseña incorrectos        | ✅ |
+| Login con credenciales incorrectas     | ✅ |
 | Login con correo vacío                            | ✅ |
 | Login con contraseña vacía                        | ✅ |
 | Login con formato de correo incorrecto | ✅ |
