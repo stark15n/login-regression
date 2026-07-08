@@ -95,13 +95,13 @@ Carpeta destinada a configuraciones globales de Cypress.
 
 Se automatizaron los siguientes escenarios para el módulo Login:
 
-| Caso de prueba | Estado |
-|----------------|--------|
-| Login exitoso | ✅ |
-| Login con usuario y contraseña incorrectos | ✅ |
-| Login con correo vacío | ✅ |
-| Login con contraseña vacía | ✅ |
-| Login con correo on formato de correo incorrecto| ✅ |
+| Caso de prueba                                    | Estado |
+|---------------------------------------------------|--------|
+| Login exitoso                                     | ✅ |
+| Login con usuario y contraseña incorrectos        | ✅ |
+| Login con correo vacío                            | ✅ |
+| Login con contraseña vacía                        | ✅ |
+| Login con formato de correo incorrecto | ✅ |
 
 Todos los escenarios incluyen las respectivas aserciones para validar el comportamiento esperado del sistema.
 

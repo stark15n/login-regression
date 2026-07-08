@@ -19,7 +19,7 @@ Feature: Login
     And presiona el botón Login
     Then debería visualizar el mensaje Your email or password is incorrect!
 
-  Scenario: Login sin correo
+  Scenario: Login con correo vacío
 
     Given que el usuario se encuentra en la página principal
     When hace clic en Signup Login
@@ -28,7 +28,7 @@ Feature: Login
     And presiona el botón Login
     Then debería permanecer en la página Login
 
-  Scenario: Login sin contraseña
+  Scenario: Login con contraseña vacía
 
     Given que el usuario se encuentra en la página principal
     When hace clic en Signup Login
