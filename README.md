@@ -143,7 +143,7 @@ git --version
 Clonar el repositorio
 
 ```bash
-git clone <URL_DEL_REPOSITORIO>
+git clone https://github.com/stark15n/login-regression
 ```
 
 Ingresar al proyecto
