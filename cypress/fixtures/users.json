@@ -1,0 +1,16 @@
+{
+  "usuarioValido": {
+    "email": "starkin1517@gmail.com",
+    "password": "123456"
+  },
+
+  "usuarioInvalido": {
+    "email": "abcnoexis@test.com",
+    "password": "0000000"
+  },
+
+  "usuarioError": {
+    "email": "starkin15@gmail.com@",
+    "password": "123456"
+  }
+}
